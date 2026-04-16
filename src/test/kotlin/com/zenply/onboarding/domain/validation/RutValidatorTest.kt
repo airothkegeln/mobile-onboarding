@@ -1,4 +1,4 @@
-package com.machbank.onboarding.domain.validation
+package com.zenply.onboarding.domain.validation
 
 import org.junit.Assert.*
 import org.junit.Test

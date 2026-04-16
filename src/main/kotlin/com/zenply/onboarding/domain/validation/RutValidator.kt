@@ -1,4 +1,4 @@
-package com.machbank.onboarding.domain.validation
+package com.zenply.onboarding.domain.validation
 
 object RutValidator {
     fun validate(rut: String): Boolean {

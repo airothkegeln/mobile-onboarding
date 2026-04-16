@@ -1,4 +1,4 @@
-package com.machbank.onboarding.ui.navigation
+package com.zenply.onboarding.ui.navigation
 
 enum class NavigationRoutes(val route: String) {
     FORMULARIO_DATOS("formulario_datos"),

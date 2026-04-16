@@ -1,4 +1,4 @@
-# MACH Bank - Onboarding App
+# Zenply - Onboarding App
 
 App Android (Kotlin) para onboarding de clientes nuevos.
 

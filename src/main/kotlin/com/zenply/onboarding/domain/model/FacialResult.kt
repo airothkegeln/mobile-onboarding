@@ -1,4 +1,4 @@
-package com.machbank.onboarding.domain.model
+package com.zenply.onboarding.domain.model
 
 data class FacialResult(
     val score: Int,

@@ -1,8 +1,8 @@
-package com.machbank.onboarding.domain.service
+package com.zenply.onboarding.domain.service
 
-import com.machbank.onboarding.domain.model.Decision
-import com.machbank.onboarding.domain.model.FacialResult
-import com.machbank.onboarding.domain.model.OnboardingData
+import com.zenply.onboarding.domain.model.Decision
+import com.zenply.onboarding.domain.model.FacialResult
+import com.zenply.onboarding.domain.model.OnboardingData
 
 object FacialAnalysisService {
     private data class TestCase(val nombre: String, val rut: String, val score: Int)

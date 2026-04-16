@@ -1,4 +1,4 @@
-package com.machbank.onboarding.ui.viewmodel
+package com.zenply.onboarding.ui.viewmodel
 
 import org.junit.Assert.*
 import org.junit.Test

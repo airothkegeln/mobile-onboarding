@@ -1,7 +1,7 @@
 plugins {
     kotlin("jvm") version "1.9.22"
 }
-group = "com.machbank.onboarding"
+group = "com.zenply.onboarding"
 version = "1.0.0"
 repositories { mavenCentral() }
 dependencies {

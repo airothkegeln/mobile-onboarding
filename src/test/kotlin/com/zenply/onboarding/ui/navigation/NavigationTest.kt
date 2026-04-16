@@ -1,4 +1,4 @@
-package com.machbank.onboarding.ui.navigation
+package com.zenply.onboarding.ui.navigation
 
 import org.junit.Assert.*
 import org.junit.Test

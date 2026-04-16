@@ -1,6 +1,6 @@
-package com.machbank.onboarding.ui.viewmodel
+package com.zenply.onboarding.ui.viewmodel
 
-import com.machbank.onboarding.domain.validation.RutValidator
+import com.zenply.onboarding.domain.validation.RutValidator
 
 data class FormState(
     val nombre: String = "",
